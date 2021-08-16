@@ -1,0 +1,25 @@
+{
+  "name": "@cosmofund/cosmomasks-limited-pack",
+  "version": "1.0.2",
+  "description": "CosmoMasks Limited Pack Smart contracts",
+  "private": true,
+  "license": "MIT",
+  "author": {
+    "name": "CosmoFund",
+    "email": "support@CosmoFund.space",
+    "url": "https://www.CosmoFund.space"
+  },
+  "scripts": {
+    "clean": "rimraf ./build/",
+    "precompile": "yarn clean",
+    "compile": "truffle compile"
+  },
+  "files": [
+    "contracts",
+    "build"
+  ],
+  "devDependencies": {
+    "rimraf": "^3.0.2",
+    "truffle": "^5.1.59"
+  }
+}

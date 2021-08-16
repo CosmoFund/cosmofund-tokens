@@ -1,0 +1,88 @@
+{
+  "name": "CosmoFund token list",
+  "timestamp": "2021-08-16T19:03:03.465Z",
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "ipfs://QmajaYdK5Cn6dLjM87xXj93bLqVsKqCB4kgeKsLUFNRCGT",
+  "keywords": [
+    "cosmofund"
+  ],
+  "tokens": [
+    {
+      "name": "CosmoArt Power",
+      "address": "0x30cb50E5e546352292f3DF53FB1A860394022375",
+      "symbol": "CAP",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "ipfs://QmajaYdK5Cn6dLjM87xXj93bLqVsKqCB4kgeKsLUFNRCGT"
+    },
+    {
+      "name": "CosmoBugs Power",
+      "address": "0xd6319D0d2Bc6D58066F61C1f82715564B31DD864",
+      "symbol": "CBP",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "ipfs://QmajaYdK5Cn6dLjM87xXj93bLqVsKqCB4kgeKsLUFNRCGT"
+    },
+    {
+      "name": "CosmoDoodle Power",
+      "address": "0x0690554989758E50895C5E7bFE6184a02203Cbc6",
+      "symbol": "CDP",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "ipfs://QmajaYdK5Cn6dLjM87xXj93bLqVsKqCB4kgeKsLUFNRCGT"
+    },
+    {
+      "name": "CosmoMasks Power",
+      "address": "0xB9FDc13F7f747bAEdCc356e9Da13Ab883fFa719B",
+      "symbol": "CMP",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "ipfs://QmajaYdK5Cn6dLjM87xXj93bLqVsKqCB4kgeKsLUFNRCGT"
+    },
+    {
+      "name": "Cosmo Token",
+      "address": "0x27cd7375478F189bdcF55616b088BE03d9c4339c",
+      "symbol": "COSMO",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "ipfs://QmajaYdK5Cn6dLjM87xXj93bLqVsKqCB4kgeKsLUFNRCGT"
+    },
+    {
+      "name": "Cosmo Universal Power",
+      "address": "0x1faDbb8D7c2D84DAad1c6f52f92480ceF8c96024",
+      "symbol": "CUP",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "ipfs://QmajaYdK5Cn6dLjM87xXj93bLqVsKqCB4kgeKsLUFNRCGT"
+    },
+    {
+      "name": "COSMO/CUP",
+      "address": "0x3727DBD3998ADd1b0576d8c6F5CbfA64f259D108",
+      "symbol": "CCLP",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "ipfs://QmajaYdK5Cn6dLjM87xXj93bLqVsKqCB4kgeKsLUFNRCGT"
+    },
+    {
+      "name": "CosmoMasks Power",
+      "address": "0x7A43397662e82a9C15D590f211347D2871B12bb7",
+      "symbol": "CMP",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "ipfs://QmajaYdK5Cn6dLjM87xXj93bLqVsKqCB4kgeKsLUFNRCGT"
+    },
+    {
+      "name": "Cosmo Token",
+      "address": "0x60E5FfdE4230985757E5Dd486e33E85AfEfC557b",
+      "symbol": "COSMO",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "ipfs://QmajaYdK5Cn6dLjM87xXj93bLqVsKqCB4kgeKsLUFNRCGT"
+    }
+  ]
+}
