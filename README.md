@@ -4,7 +4,7 @@
 
 ## CosmoFund token list (BEP20/ERC20)
   - Token list #1 [https://raw.githubusercontent.com/CosmoFund/cosmofund-tokens/master/assets/cosmofund.tokenlist.json](https://raw.githubusercontent.com/CosmoFund/cosmofund-tokens/master/assets/cosmofund.tokenlist.json);
-  - Token list #2 [ipfs://QmbcAcAornSar7XHB3T7C4J51166s9zGBSUDKj6GgpudWW](ipfs://QmbcAcAornSar7XHB3T7C4J51166s9zGBSUDKj6GgpudWW).
+  - Token list #2 [ipfs://QmT14E5HUpnXByRd1JEyj7QetdG3m6KjXsSfLMYTUbx7tY](ipfs://QmT14E5HUpnXByRd1JEyj7QetdG3m6KjXsSfLMYTUbx7tY).
 
 
 ## CosmoFund tokens Smart contracts
@@ -42,7 +42,7 @@
 
 ## Tokens (BEP20/ERC20)
   - COSMO/CUP (CCLP):
-    - BSC Mainnet [0x3727DBD3998ADd1b0576d8c6F5CbfA64f259D108](https://bscscan.com/token/0x3727DBD3998ADd1b0576d8c6F5CbfA64f259D108).
+    - BSC Mainnet [0x55ece1750677AF5FcCbf0F05b52169946c371878](https://bscscan.com/token/0x55ece1750677AF5FcCbf0F05b52169946c371878).
   - Cosmo Token (COSMO):
     - BSC Mainnet [0x60E5FfdE4230985757E5Dd486e33E85AfEfC557b](https://bscscan.com/token/0x60E5FfdE4230985757E5Dd486e33E85AfEfC557b);
     - Ethereum Mainnet [0x27cd7375478F189bdcF55616b088BE03d9c4339c](https://etherscan.io/token/0x27cd7375478F189bdcF55616b088BE03d9c4339c).

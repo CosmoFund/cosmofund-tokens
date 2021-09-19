@@ -17,17 +17,19 @@
 
 
 ## Tokens (BEP20/ERC20)
+  - COSMO/CUP (CCLP) ABI:
+    - BSC Mainnet [https://raw.githubusercontent.com/CosmoFund/cosmofund-tokens/master/abis/bsc/CCLP.json](https://raw.githubusercontent.com/CosmoFund/cosmofund-tokens/master/abis/bsc/CCLP.json).
   - Cosmo Token (COSMO) ABI:
-    - BSC Mainnet [https://raw.githubusercontent.com/CosmoFund/cosmofund-tokens/master/abis/bsc/COSART.json](https://raw.githubusercontent.com/CosmoFund/cosmofund-tokens/master/abis/bsc/COSART.json);
-    - Ethereum Mainnet [https://raw.githubusercontent.com/CosmoFund/cosmofund-tokens/master/abis/eth/COSART.json](https://raw.githubusercontent.com/CosmoFund/cosmofund-tokens/master/abis/eth/COSART.json).
+    - BSC Mainnet [https://raw.githubusercontent.com/CosmoFund/cosmofund-tokens/master/abis/bsc/COSMO.json](https://raw.githubusercontent.com/CosmoFund/cosmofund-tokens/master/abis/bsc/COSMO.json);
+    - Ethereum Mainnet [https://raw.githubusercontent.com/CosmoFund/cosmofund-tokens/master/abis/eth/COSMO.json](https://raw.githubusercontent.com/CosmoFund/cosmofund-tokens/master/abis/eth/COSMO.json).
   - Cosmo Universal Power (CUP) ABI:
-    - Ethereum Mainnet [https://raw.githubusercontent.com/CosmoFund/cosmofund-tokens/master/abis/eth/COSART.json](https://raw.githubusercontent.com/CosmoFund/cosmofund-tokens/master/abis/eth/COSART.json).
+    - Ethereum Mainnet [https://raw.githubusercontent.com/CosmoFund/cosmofund-tokens/master/abis/eth/CUP.json](https://raw.githubusercontent.com/CosmoFund/cosmofund-tokens/master/abis/eth/CUP.json).
   - CosmoMasks Power (CMP) ABI:
-    - BSC Mainnet [https://raw.githubusercontent.com/CosmoFund/cosmofund-tokens/master/abis/bsc/COSART.json](https://raw.githubusercontent.com/CosmoFund/cosmofund-tokens/master/abis/bsc/COSART.json);
-    - Ethereum Mainnet [https://raw.githubusercontent.com/CosmoFund/cosmofund-tokens/master/abis/eth/COSART.json](https://raw.githubusercontent.com/CosmoFund/cosmofund-tokens/master/abis/eth/COSART.json).
+    - BSC Mainnet [https://raw.githubusercontent.com/CosmoFund/cosmofund-tokens/master/abis/bsc/CMP.json](https://raw.githubusercontent.com/CosmoFund/cosmofund-tokens/master/abis/bsc/CMP.json);
+    - Ethereum Mainnet [https://raw.githubusercontent.com/CosmoFund/cosmofund-tokens/master/abis/eth/CMP.json](https://raw.githubusercontent.com/CosmoFund/cosmofund-tokens/master/abis/eth/CMP.json).
   - CosmoBugs Power (CBP) ABI:
-    - Ethereum Mainnet [https://raw.githubusercontent.com/CosmoFund/cosmofund-tokens/master/abis/eth/COSART.json](https://raw.githubusercontent.com/CosmoFund/cosmofund-tokens/master/abis/eth/COSART.json).
+    - Ethereum Mainnet [https://raw.githubusercontent.com/CosmoFund/cosmofund-tokens/master/abis/eth/CBP.json](https://raw.githubusercontent.com/CosmoFund/cosmofund-tokens/master/abis/eth/CBP.json).
   - CosmoDoodle Power (CDP) ABI:
-    - Ethereum Mainnet [https://raw.githubusercontent.com/CosmoFund/cosmofund-tokens/master/abis/eth/COSART.json](https://raw.githubusercontent.com/CosmoFund/cosmofund-tokens/master/abis/eth/COSART.json).
+    - Ethereum Mainnet [https://raw.githubusercontent.com/CosmoFund/cosmofund-tokens/master/abis/eth/CDP.json](https://raw.githubusercontent.com/CosmoFund/cosmofund-tokens/master/abis/eth/CDP.json).
   - CosmoArt Power (CAP) ABI:
-    - Ethereum Mainnet [https://raw.githubusercontent.com/CosmoFund/cosmofund-tokens/master/abis/eth/COSART.json](https://raw.githubusercontent.com/CosmoFund/cosmofund-tokens/master/abis/eth/COSART.json).
+    - Ethereum Mainnet [https://raw.githubusercontent.com/CosmoFund/cosmofund-tokens/master/abis/eth/CAP.json](https://raw.githubusercontent.com/CosmoFund/cosmofund-tokens/master/abis/eth/CAP.json).

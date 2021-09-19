@@ -1,9 +1,9 @@
 {
   "name": "CosmoFund token list",
-  "timestamp": "2021-08-16T19:03:03.465Z",
+  "timestamp": "2021-09-19T17:51:00.000Z",
   "version": {
     "major": 2,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
   "tags": {},
@@ -62,7 +62,15 @@
     },
     {
       "name": "COSMO/CUP",
-      "address": "0x3727DBD3998ADd1b0576d8c6F5CbfA64f259D108",
+      "address": "0x55ece1750677AF5FcCbf0F05b52169946c371878",
+      "symbol": "CCLP",
+      "decimals": 18,
+      "chainId": 3,
+      "logoURI": "ipfs://QmajaYdK5Cn6dLjM87xXj93bLqVsKqCB4kgeKsLUFNRCGT"
+    },
+    {
+      "name": "COSMO/CUP",
+      "address": "0x55ece1750677AF5FcCbf0F05b52169946c371878",
       "symbol": "CCLP",
       "decimals": 18,
       "chainId": 56,
